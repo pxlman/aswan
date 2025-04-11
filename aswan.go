@@ -1,8 +1,8 @@
 package aswan
 
-import (
-  "fmt"
-)
+// import (
+//   "fmt"
+// )
 
 func aswan() string {
   // This is a simple Go program that prints "Hello, Aswan!" to the console.
